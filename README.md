@@ -2,10 +2,11 @@
 Analog studio mixer
 An analog studio mixer, completely inspired by Elliot Sound Products website project p30.
 All the channel on the mixer will be the same.
+
 The channel has the following characteristics:
--MIC input:
+- MIC input:
     every channel can take a standard mic input via xlr, it can handle both dyncamic microphones and condenser ones, as it has a 48V switch integrated.EVERY CHANNEL CAN TOGGLE THE 48V FOR ITSELF.
--LINE input:
+- LINE input:
     you can have line input through xlr or standard 6.3mm jack.
 -48V PAD AND PHASE switches:
     48v switches stated above, every channel has a pad switch to attenunate LOUD signal sources, and it attenuates by 20dB, and the phase swtich inverts the phase of the balanced signal to handle phase issues with close by mics.
